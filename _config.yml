@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "Waleed Sial"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/bio-photo.jpg"
   bio              : "Aspiring Data Scientist/ Machine Learning Engineer "
   location         : "Dallas , TX"
   email            :
