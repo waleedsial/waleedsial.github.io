@@ -8,5 +8,4 @@ header:
 I am a graduate student at University of Texas, Dallas pursuing MS in Business Analytics. Aspiring to become a full stack data professional.
 
 
-<a href="https://waleedsial.github.io/pdf/aws-analytics.pdf" target="_blank">PDF.</a>
-<embed src="https://waleedsial.github.io/pdf/aws-analytics.pdf" type="application/pdf"
+<a href="https://waleedsial.github.io/pdf/Resume.pdf" target="_blank">PDF.</a>
