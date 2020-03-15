@@ -9,3 +9,4 @@ I am a graduate student at University of Texas, Dallas pursuing MS in Business A
 
 
 <a href="https://waleedsial.github.io/pdf/aws-analytics.pdf" target="_blank">PDF.</a>
+<embed src="https://waleedsial.github.io/pdf/aws-analytics.pdf" type="application/pdf"
