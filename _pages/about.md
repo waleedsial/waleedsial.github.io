@@ -6,3 +6,7 @@ header:
 
 ---
 I am a graduate student at University of Texas, Dallas pursuing MS in Business Analytics. Aspiring to become a full stack data professional.
+
+
+
+<embed src="https://waleedsial.github.io/pdf/aws-analytics.pdf" type="application/pdf" />
