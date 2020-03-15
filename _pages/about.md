@@ -3,5 +3,9 @@ title: "About"
 permalink: /about/
 header:
   image: "images/UTD-Drive-1920.jpg"
+
+body:
+  image: image: "images/UTD-Drive-1920.jpg"
+
 ---
-About page, student at data science
+I am a graduate student at University of Texas, Dallas pursuing MS in Business Analytics. Aspiring to become a full stack data professional.

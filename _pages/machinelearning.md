@@ -5,5 +5,4 @@ title: "Machine Learning Posts by Tags"
 author_profile: true
 header:
   image: "/images/Dallas_sky.jpg"
-  image: "/images/Dallas_sky.jpg"
 ---
