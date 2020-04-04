@@ -38,6 +38,6 @@ header:
 
 
 
-
+Please reach out to me at waleedsial@gmail.com or 972-269-6112. My resume is linked below as well.  
 
 <a href="https://waleedsial.github.io/pdf/Resume.pdf" target="_blank">PDF.</a>
