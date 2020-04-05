@@ -40,4 +40,7 @@ header:
 
 Please reach out to me at waleedsial@gmail.com or 972-269-6112. My resume is linked below as well.  
 
+
+<iframe width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=4c74dd61-4482-47dc-8968-26a0149fc623&autoAuth=true&ctid=8d281d1d-9c4d-4bf7-b16e-032d15de9f6c&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLXVzLW5vcnRoLWNlbnRyYWwtcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQvIn0%3D" frameborder="0" allowFullScreen="true"></iframe>
+
 <a href="https://waleedsial.github.io/pdf/Resume.pdf" target="_blank">PDF.</a>
