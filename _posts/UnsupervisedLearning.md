@@ -9,3 +9,6 @@ header:
 The purpose of this post is to get up & running with linear & logistic regression
 implementation from scratch, the conceptual understanding, formulas has been taken from
 Prof. Andrew Ng Machine Learning course. Following are salient features of this blog:
+
+
+<embed src=”/pdf/Resume.pdf#page=2" type=”application/pdf” width=”100%” height=”100%”>
